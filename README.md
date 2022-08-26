@@ -4,8 +4,8 @@ This project is a programming assignment from the Artificial Intelligence course
 
 The purpose of the assignment is to implement a bayesian network using two different sampling algorithms: prior sampling, and a choice of
 either rejection sampling and likelihood weighting; I chose rejection sampling. 
-Here is the description of the assignment from the assignment sheet: 
 
+## Project Description
 On Patriots’ Day (a holiday observed by several states in the US, including Massachusetts, on
 the third Monday in April), the Tortoise and the Hare have their annual footrace in a small
 town in eastern Massachusetts. On the morning of the race, either the short or the long
